@@ -1,4 +1,4 @@
-Este é o meu repositório de dashboards de Power BI feitos a partir do Intensivão de Power BI da Hashtag Treinamentos!
+Este é o meu repositório de dashboards feitos a partir do Intensivão de Power BI da Hashtag Treinamentos!
 
 Nesse treinamento, pude desenvolver quatro relatórios com o uso de diversas ferramentas, nativas ou não da plataforma, e os mostro a seguir:
 
